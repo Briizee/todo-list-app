@@ -1,4 +1,4 @@
-Code for MERN tutorial.
+This is a MERN app created losely based on the following tutorial. 
 
 Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
 
